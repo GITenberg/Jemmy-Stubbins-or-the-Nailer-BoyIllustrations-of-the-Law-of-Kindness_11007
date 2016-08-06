@@ -1,0 +1,29 @@
+_repo: Jemmy-Stubbins-or-the-Nailer-BoyIllustrations-of-the-Law-of-Kindness_11007
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Burritt, Elihu
+    birthdate: 1810
+    deathdate: 1879
+    gutenberg_agent_id: '4167'
+    url: http://www.gutenberg.org/2009/agents/4167
+    wikipedia: http://en.wikipedia.org/wiki/Elihu_Burritt
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11007'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humanitarianism -- Juvenile literature'
+- !lcc 'PZ'
+- !lcsh 'Charity -- Juvenile literature'
+- !lcsh 'England -- Social life and customs -- Juvenile literature'
+- GITenberg
+title: 'Jemmy Stubbins, or the Nailer Boy
+
+  Illustrations of the Law of Kindness'
+url: http://www.gutenberg.org/ebooks/11007
