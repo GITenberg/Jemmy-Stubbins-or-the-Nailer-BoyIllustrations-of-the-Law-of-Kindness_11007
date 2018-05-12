@@ -1,5 +1,8 @@
 _repo: Jemmy-Stubbins-or-the-Nailer-BoyIllustrations-of-the-Law-of-Kindness_11007
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Burritt, Elihu
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4167
     wikipedia: http://en.wikipedia.org/wiki/Elihu_Burritt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11007#Jemmy-Stubbins-or-the-Nailer-BoyIllustrations-of-the-Law-of-Kindness
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
